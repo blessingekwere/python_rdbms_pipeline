@@ -1,7 +1,7 @@
 # python_rdbms_pipeline
 
 ## About the project
-This project aims to create a Python pipeline that can interact with a Relational Database Management System (RDBMS). It utilizes the Microsoft SQL Server database "AdventureWorks," a fictional company's sample database, to demonstrate and practice SQL queries, data modeling, and business intelligence scenarios.
+This project focuses on creating a Python pipeline that can interact with a Relational Database Management System (RDBMS). It utilizes the Microsoft SQL Server database "AdventureWorks," a fictional company's sample database, to demonstrate and practice SQL queries, data modeling, and business intelligence scenarios.
 
 ## Project Overview
 The primary objective of this project is to develop a Python pipeline capable of interacting with a Relational Database Management System (RDBMS). Specifically, the pipeline will connect to the Microsoft SQL Server database "AdventureWorks," a widely used sample database for learning SQL and exploring business intelligence scenarios.
