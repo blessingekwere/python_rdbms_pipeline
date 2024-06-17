@@ -27,14 +27,14 @@ The main aim of this project is to create a robust pipeline that can seamlessly 
 By completing this project, I gained valuable skills in integrating Python with an RDBMS, enabling me to build robust data pipelines and leverage the power of SQL for data analysis and business intelligence tasks.
 
 ## Tools and Resources
-To complete this project, I used the following tools
+To complete this project, I used the following tools:
 
 - Microsoft SQL Server
 - Microsoft SQL Server Management Studio
 - Python
-- An Integrated Development Environment (IDE) (Visual Studio Code)
+- Visual Studio Code (An Integrated Development Environment (IDE))
 - AdventureWorksDW2019.bak database backup file
 
 The project is divided into three main exercises, each focusing on a specific aspect of the pipeline. Each exercise has its own set of tasks and learning objectives. By completing these exercises, I gained a more practical experience in executing SQL commands, uploading data, and extracting data using Python.
 
-Get ready to embark on this exciting journey of building a Python pipeline for RDBMS interaction!
+Go with me on this exciting journey of building a Python pipeline for RDBMS interaction  🙂 🙂
